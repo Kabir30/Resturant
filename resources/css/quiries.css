@@ -1,0 +1,31 @@
+@media only screen and(max-width:480){
+    
+
+}
+}
+@media only screen and(max-width:767){
+    
+}
+@media only screen and(max-width:1023){
+    body{font-size: 18px;}  
+    section{padding: 60px 0;}
+    .long-copy{
+        width:80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    .step-box{
+        margin-top: 10px;
+    }
+    .step-box:last-child{ margin-top: 10px;}
+    .work-step{margin-bottom: 40px;}
+    .work-step:last-of-type{margin-bottom: 60px;}
+}
+@media only screen and(max-width:1200){
+    .hero-txt{
+    width: 100%;
+    padding: 0 2%;    
+}
+    .row{padding:0 2%;}
+}
+    
